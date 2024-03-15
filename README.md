@@ -5,7 +5,7 @@
 The above figure depicts two workflows. The workflow one is related to Infrastructure repository & the second workflow is linked to CI/CD of AWS ECS Services used to build node.js apps.
 
 ## Workflow-1: Provisioning AWS ECS Services with Terraform
-The workflow uses terraform IaC for provisioning and configuration of AWS resources. The reusable terraform modules built for this solutions are as follows:
+The workflow uses terraform IaC for provisioning and configuration of AWS resources. The reusable terraform modules built for this solution is as follows:
 a)	vpc	
 b)	alb
 c)	iam
