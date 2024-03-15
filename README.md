@@ -44,7 +44,7 @@ g)	ecs
 2. **CodePipeline**:
    - CodePipeline is triggered, consisting of three stages: CodeCommit, CodeBuild, and CodeDeploy.
 
-3. **Deployment**:
+3. **CodeDeploy**:
    - Final stage of CI/CD deploys the latest updated microservice Node.js app code onto the ECS cluster.
 
 This workflow ensures a streamlined process for developers to continuously integrate and deploy microservices applications onto ECS clusters across different environments.
