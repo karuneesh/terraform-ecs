@@ -19,6 +19,8 @@ The above figure depicts two workflows. The workflow one is related to Infrastru
 4. **Applying Changes**:
    - `terraform apply` is executed to provision, modify, or destroy resources as necessary to bring the infrastructure into the desired state.
 <img width="642" alt="terraform-ecs-modules" src="https://github.com/karuneesh/terraform-ecs/assets/59604775/62982135-e965-44d6-9e22-02fa5cf817a8">
+
+
 ### Solution Explanation:
 - Utilizes reusable and configurable Terraform modules for provisioning AWS resources.
 - Modules have input and output files along with main configuration files.
